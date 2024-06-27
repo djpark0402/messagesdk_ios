@@ -1,0 +1,6 @@
+framework module OpenDID_DataModel {
+  umbrella header "OpenDID_DataModel.h"
+  export *
+
+  module * { export * }
+}

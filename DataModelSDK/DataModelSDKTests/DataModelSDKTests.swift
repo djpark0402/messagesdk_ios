@@ -1,14 +1,14 @@
 //
-//  MessageSDKTests.swift
-//  MessageSDKTests
+//  DataModelSDKTests.swift
+//  DataModelSDKTests
 //
-//  Created by dong jun park on 4/24/24.
+//  Created by dong jun park on 6/12/24.
 //
 
 import XCTest
-@testable import MessageSDK
+@testable import DataModelSDK
 
-final class MessageSDKTests: XCTestCase {
+final class DataModelSDKTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
